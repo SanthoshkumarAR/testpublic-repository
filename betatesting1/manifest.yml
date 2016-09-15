@@ -1,0 +1,6 @@
+---
+applications:
+- name: betatesting1
+  memory: 128M
+  instances: 1
+
