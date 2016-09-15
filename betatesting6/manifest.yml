@@ -1,0 +1,7 @@
+---
+applications:
+- name: betatesting6
+  memory: 128M
+  instances: 1
+  services:
+   - sdfe-mongodb-3914805850
