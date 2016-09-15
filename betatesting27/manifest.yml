@@ -1,0 +1,7 @@
+---
+applications:
+- name: betatesting27
+  memory: 128M
+  instances: 1
+  services:
+   - betatesting26-couchdb-3920244306
