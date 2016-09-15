@@ -1,0 +1,6 @@
+---
+applications:
+- name: betatesting52
+  memory: 128M
+  instances: 1
+
