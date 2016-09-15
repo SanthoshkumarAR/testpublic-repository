@@ -1,0 +1,9 @@
+---
+applications:
+- name: betatesting20
+  memory: 128M
+  instances: 1
+  services:
+   - betatesting20-mongodb-3917328509
+  env:
+   - NODE_ENV: cloud-foundry
