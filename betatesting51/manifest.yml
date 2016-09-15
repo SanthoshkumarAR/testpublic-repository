@@ -1,0 +1,7 @@
+---
+applications:
+- name: betatesting51
+  memory: 128M
+  instances: 1
+  services:
+   - betatesting51-mongodb-3924915485
