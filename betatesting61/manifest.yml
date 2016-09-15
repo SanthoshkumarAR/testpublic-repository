@@ -1,0 +1,7 @@
+---
+applications:
+- name: betatesting61
+  memory: 128M
+  instances: 1
+  services:
+   - betatesting60-cassandra-3931191420
