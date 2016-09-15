@@ -1,0 +1,7 @@
+---
+applications:
+- name: betatesting23
+  memory: 128M
+  instances: 1
+  services:
+   - betatesting23-mongodb-3918283183
