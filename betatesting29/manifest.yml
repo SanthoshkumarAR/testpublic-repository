@@ -1,0 +1,7 @@
+---
+applications:
+- name: betatesting29
+  memory: 128M
+  instances: 1
+  services:
+   - betatesting100-postgre-3920985796
