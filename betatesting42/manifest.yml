@@ -1,0 +1,7 @@
+---
+applications:
+- name: betatesting42
+  memory: 128M
+  instances: 1
+  services:
+   - betatesting42-mysql-3923065835
