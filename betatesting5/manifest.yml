@@ -1,0 +1,7 @@
+---
+applications:
+- name: betatesting5
+  memory: 128M
+  instances: 1
+  services:
+   - betatesting5-redis-3914397948
