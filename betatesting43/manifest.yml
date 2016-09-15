@@ -1,0 +1,7 @@
+---
+applications:
+- name: betatesting43
+  memory: 128M
+  instances: 1
+  services:
+   - betatesting43-mysql-3923287981
