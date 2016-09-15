@@ -1,0 +1,9 @@
+---
+applications:
+- name: betatesting2
+  memory: 128M
+  instances: 1
+  services:
+   - betatesting2-mongodb-3913139455
+  env:
+   - NODE_ENV: cloud-foundry
