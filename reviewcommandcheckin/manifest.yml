@@ -1,0 +1,7 @@
+---
+applications:
+- name: reviewcommandcheckin
+  memory: 128M
+  instances: 1
+  services:
+    - reviewcommandcheckin-mysql-8083790775
