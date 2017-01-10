@@ -1,0 +1,23 @@
+{
+  "name": "senecablank",
+  "version": "1.0.0",
+  "description": "Custom template using Seneca",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "~1.5.2",
+    "cfenv": "1.0.3",
+    "express": "~4.13.1",
+    "lodash": "~3.10.1",
+    "seneca": "~2.0.0",
+    "seneca-entity": "0.0.1"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "chai-http": "^2.0.1",
+    "expect.js": "^0.3.1"
+  }
+}
