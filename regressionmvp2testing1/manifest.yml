@@ -1,0 +1,7 @@
+---
+applications:
+- name: regressionmvp2testing1
+  memory: 512M
+  instances: 1
+  env:
+    - santhosh: 12345
