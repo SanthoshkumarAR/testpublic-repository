@@ -1,0 +1,11 @@
+---
+applications:
+- name: sspp01
+  memory: 512M
+  instances: 1
+  services:
+    - sspp01-twilio-4647209473
+    - sspp01-mysql-4647209473
+  env:
+    - santhosh: 56987
+  
