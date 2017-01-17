@@ -1,0 +1,8 @@
+---
+applications:
+- name: regmvp202
+  memory: 512M
+  instances: 1
+  services:
+    - regmvp202-sendgrid-4640793078
+    - regmvp202-mysql-4640793078
