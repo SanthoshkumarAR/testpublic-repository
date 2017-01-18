@@ -1,0 +1,11 @@
+---
+applications:
+- name: saswregression7896520
+  memory: 128M
+  instances: 1
+  services:
+    - saswregression7896520-mongodb-4716510477
+    - saswregression7896520-sendgrid-4716510477
+  env:
+   - NODE_ENV: cloud-foundry
+   
