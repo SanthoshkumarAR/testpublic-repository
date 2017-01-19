@@ -1,0 +1,9 @@
+---
+applications:
+- name: bluemixregressiontesting01
+  memory: 128M
+  instances: 1
+  services:
+    - bluemixregressiontesting01-twilio-4815787591
+    - bluemixregressiontesting01-mongodb-4815787591
+  
