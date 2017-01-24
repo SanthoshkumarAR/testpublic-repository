@@ -1,0 +1,10 @@
+---
+applications:
+- name: testapps8001
+  memory: 128M
+  instances: 1
+  services:
+    - testapps8001-twilio-5233708610
+    - testapps8000-postgre-5233288511
+    - testapps8000-rabbitmq-5233288511
+  

@@ -1,0 +1,5 @@
+{
+  "service_name" : "testapps8000-postgre-5233288511",
+  "rabbitmq_service_name" : "testapps8000-rabbitmq-5233288511",
+  "twilio_service_name" : "testapps8001-twilio-5233708610"
+}
