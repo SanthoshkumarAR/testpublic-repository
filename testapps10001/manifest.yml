@@ -1,0 +1,9 @@
+---
+applications:
+- name: testapps10001
+  memory: 128M
+  instances: 1
+  services:
+    - testapps10001-twilio-5230692871
+    - testapps10001-mongodb-5230692871
+  
