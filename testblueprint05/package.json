@@ -1,0 +1,1 @@
+{"name":"customapp","version":"1.0.0","description":"Generics App","main":"app.js","scripts":{"start":"node app.js"},"author":"Cognizant Technology Solutions","license":"ISC","dependencies":{"express":"~4.13.1","body-parser":"~1.5.2","cfenv":"1.0.3"},"devDependencies":{"chai":"^3.5.0","chai-http":"^2.0.1","expect.js":"^0.3.1"}}
