@@ -1,0 +1,8 @@
+---
+applications:
+- name: testing85022
+  memory: 128M
+  instances: 1
+  services:
+    - testing8500-mongodb-6548245948
+  
