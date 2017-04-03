@@ -1,0 +1,9 @@
+---
+applications:
+- name: testingappmonday
+  memory: 128M
+  instances: 1
+  services:
+    - testingappmonday-twilio-1191865922
+    - p1-postgre-6983536009
+  
